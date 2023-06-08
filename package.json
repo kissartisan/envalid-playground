@@ -34,6 +34,7 @@
     "validation"
   ],
   "dependencies": {
+    "dotenv": "^16.1.4",
     "tslib": "2.4.1"
   },
   "devDependencies": {
